@@ -1,5 +1,5 @@
 <div align="center">
-<p><img src="https://acegif.com/wp-content/gif/outerspace-51.gif" alt="GIF" width="400" height="230"></p><p><a href="https://tinyurl.com/Script-NK-BOT"><img title="WhatsApp-Bot-MD" src="https://img.shields.io/badge/-WHATSAPP--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" alt="WhatsApp Bot MD"></a></p><p><a href="https://tinyurl.com/Neo-Kosmo"><img title="Autor" src="https://img.shields.io/badge/Autor-@NeKosmic-orange?style=for-the-badge&logo=github" alt="Autor"></a></p>
+<p><img src="https://acegif.com/wp-content/gif/outerspace-51.gif" alt="GIF" width="400" height="230"></p><p><a href="https://tinyurl.com/Script-NK-BOT"><img title="WhatsApp-Bot-MD" src="https://img.shields.io/badge/-WHATSAPP--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" alt="WhatsApp Bot MD"></a></p><p><a href="https://wa.me/51916921168"><img title="Autor" src="https://img.shields.io/badge/Autor-@NeKosmic-orange?style=for-the-badge&logo=github" alt="Autor"></a></p>
 
 <details>
   <summary>Bot Features <img src="https://cbsnews1.cbsistatic.com/hub/i/2017/10/17/b34c14c8-750e-4afa-838d-ba9da0a3b042/171016-nasa-gravitational-waves-article.gif" width="40px"></summary>
